@@ -1,0 +1,15 @@
+{
+    "obUpdate": false,
+    "costco": {"dev": "114", "beta": "102", "prod": "102"},
+    "descriptionUpdate": "App update costco",
+    "versionAndroid": "2.8.3",
+    "versionISO": "2.9.0",
+    "closeApp": false,
+    "descriptionCloseApp": "ngày lễ app dừng hoạt động",
+    "customAction": false,
+    "runApiProd": true,
+    "apiProduction": "https://apiappmo.usexpressglobal.com",
+    "apiDEV": "https://testapiappv2.usexpressglobal.com",
+    "apiBeta": "https://betaapiappmo.usexpressglobal.com",
+    "urlDowApp": "http://usxpressglobal.com/app.html" 
+ }

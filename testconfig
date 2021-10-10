@@ -2,7 +2,7 @@
     "obUpdate": false,
     "costco": {"dev": "114", "beta": "102", "prod": "102"},
     "descriptionUpdate": "App update costco",
-    "versionAndroid": "2.8.3",
+    "versionAndroid": "2.8.5",
     "versionISO": "2.9.0",
     "closeApp": false,
     "descriptionCloseApp": "ngày lễ app dừng hoạt động",
